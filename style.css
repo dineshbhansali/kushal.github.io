@@ -1,0 +1,89 @@
+.text {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+TD {
+	FONT-SIZE: 11px; COLOR: #111111; FONT-FAMILY: ,sans-serif
+}
+TR {
+	FONT-SIZE: 11px; COLOR: #111111; FONT-FAMILY: ,sans-serif
+}
+.hand {
+	cursor: pointer;
+}
+
+TABLE {
+	FONT-SIZE: 11px; COLOR: #111111; FONT-FAMILY: ,sans-serif
+}
+BODY {
+	FONT-SIZE: 11px; MARGIN: 0px; COLOR: #111111; FONT-FAMILY: 'Verdana', sans-serif
+}
+INPUT {
+	BORDER-RIGHT: #111111 1px solid; BORDER-TOP: #111111 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #111111 1px solid; BORDER-BOTTOM: #111111 1px solid; FONT-FAMILY: 'Verdana', sans-serif
+}
+SELECT {
+	BORDER-RIGHT: #111111 1px solid; BORDER-TOP: #111111 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #111111 1px solid; BORDER-BOTTOM: #111111 1px solid; FONT-FAMILY: 'Verdana', sans-serif
+}
+OPTION {
+	BORDER-RIGHT: #111111 1px solid; BORDER-TOP: #111111 1px solid; FONT-SIZE: 11px; BORDER-LEFT: #111111 1px solid; BORDER-BOTTOM: #111111 1px solid; FONT-FAMILY: 'Verdana', sans-serif
+}
+A {
+	FONT-SIZE: 11px;
+	FONT-FAMILY: 'Verdana', sans-serif;
+	TEXT-DECORATION: none;
+	color: #FF0000;
+}
+A:link {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: 'Verdana', sans-serif; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 11px; COLOR: #111111; FONT-FAMILY: 'Verdana', sans-serif; TEXT-DECORATION: none
+}
+.small {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+A:active {
+	FONT-SIZE: 11px; FONT-FAMILY: 'Verdana', sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; COLOR: #00ccff; TEXT-DECORATION: none
+}
+a.text:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+a.text:visited {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+a.text:hover {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #136DD0;
+	text-decoration: none;
+}
+a.text:active {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}

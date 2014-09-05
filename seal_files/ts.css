@@ -1,0 +1,57 @@
+.a {
+	FONT-SIZE: 11px; LINE-HEIGHT: 17px; FONT-FAMILY: verdana
+}
+.co {
+	FONT-SIZE: 18px; COLOR: #800000; FONT-FAMILY: arial
+}
+.co1 {
+	FONT-SIZE: 13px; COLOR: #000000; FONT-FAMILY: arial
+}
+.co2 {
+	FONT-SIZE: 13px; COLOR: #800000; FONT-FAMILY: arial
+}
+.iso {
+	FONT-SIZE: 16px; COLOR: #0000a0; FONT-FAMILY: arial
+}
+.text {
+	FONT-SIZE: 10px; FONT-FAMILY: verdana
+}
+.text1 {
+	FONT-SIZE: 13px; FONT-FAMILY: verdana
+}
+.cmp {
+	FONT-SIZE: 18px; COLOR: #ff6600; FONT-FAMILY: arial
+}
+.cmp1 {
+	FONT-SIZE: 13px; COLOR: #ff6600; FONT-FAMILY: arial
+}
+.iso1 {
+	FONT-SIZE: 15px; COLOR: #993300; FONT-FAMILY: arial
+}
+.ts {
+	FONT-SIZE: 11px; COLOR: #993300; FONT-FAMILY: verdana
+}
+.whatis A {
+	FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: verdana
+}
+.back A {
+	COLOR: #bb5e00
+}
+.back {
+	FONT-SIZE: 10px; COLOR: #bb5e00; FONT-FAMILY: verdana
+}
+.whatis-t {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 5px; COLOR: #000; LINE-HEIGHT: 16px; PADDING-TOP: 5px; FONT-FAMILY: arial,verdana
+}
+UL {
+	PADDING-LEFT: 15px; LIST-STYLE-IMAGE: url(/gifs/ul.gif); PADDING-BOTTOM: 10px; MARGIN: 0px 0px 0px 11px; PADDING-TOP: 10px
+}
+LI {
+	PADDING-BOTTOM: 5px
+}
+UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LIST-STYLE-IMAGE: url(/gifs/ulul.gif); PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+UL UL UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px 0px 0px 18px; PADDING-TOP: 0px
+}
